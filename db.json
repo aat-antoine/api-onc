@@ -1,0 +1,41 @@
+{
+	"oncology": {
+		"rubrics": [{
+			"title": "DETRESSE VITALES",
+			"rubrics": [{
+				"title": "Urgences et détresses vitales",
+				"rubrics": [{
+					"title": "Prévenir les détresses vitales - La Chaîne de Survie Intra-Hospitalière",
+					"htmlPage": "<h4>It works </h4><br>"
+				}, {
+					"title": "Critère d'appel du médecin de réaniamtion - USCM face à une dysfonction viscérale débutante",
+					"htmlPage": "<h4>It works </h4><br>"
+				}]
+			}, {
+				"title": "Critères d'appel du médecin de REA - USCM",
+				"htmlPage": "<p>Manuel</p>"
+			}, {
+				"title": "Arrêt cardiaque",
+				"htmlPage": "<p>Manuel</p>"
+			}, {
+				"title": "Prise en charge initiale du SCA",
+				"htmlPage": "<p>Manuel</p>"
+			}]
+		}, {
+			"title": "MEDECINE",
+			"rubrics": [{
+				"title": "Analyses de biologie en garde",
+				"htmlPage": "<h4>It works </h4><br>"
+			}, {
+				"title": "CVC / Principe et complications",
+				"rubrics": [{
+					"title": "Pose de chambre ou de cvc",
+					"htmlPage": "<h4>It works </h4><br>"
+				}, {
+					"title": "Tromboses veineuses sur cvc",
+					"htmlPage": "<h4>It works </h4><br>"
+				}]
+			}]
+		}]
+	}
+}
