@@ -1,8 +1,8 @@
 {
 	"oncology": {
-		"rubrics": [{
+		"chapters": [{
 			"title": "DETRESSES VITALES",
-			"rubrics": [{
+			"chapters": [{
 				"title": "Urgences et détresses vitales",
 				"rubrics": [{
 					"title": "Prévenir les détresses vitales - La Chaîne de Survie Intra-Hospitalière",
@@ -23,12 +23,12 @@
 			}]
 		}, {
 			"title": "MEDECINE",
-			"rubrics": [{
+			"chapters": [{
 				"title": "Analyses de biologie en garde",
 				"htmlPage": "<h4>It works </h4><br>"
 			}, {
 				"title": "CVC / Principe et complications",
-				"rubrics": [{
+				"chapters": [{
 					"title": "Pose de chambre ou de cvc",
 					"htmlPage": "<h4>It works </h4><br>"
 				}, {
